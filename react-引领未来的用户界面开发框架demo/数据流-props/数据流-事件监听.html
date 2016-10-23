@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PropTypes</title>
+    <script src="../build/react.js"></script>
+    <script src="../build/react-dom.js"></script>
+    <script src="../build/browser.min.js"></script>
+</head>
+<body>
+<div id="example"></div>
+
+</body>
+
+<script type="text/babel">
+
+
+    var Divider = React.createClass({
+
+        render: function () {
+
+            console.log(this.props);
+
+            return (
+                    <div>
+                        <span onClick={this.say}>{this.props.name}</span>
+                    </div>
+            );
+        },
+
+        say : function () {
+            alert(this.props.name);
+        }
+
+    });
+
+    ReactDOM.render(
+            <Divider name='LamHo'/>,
+            document.getElementById('example')
+    );
+
+
+</script>
+</html>

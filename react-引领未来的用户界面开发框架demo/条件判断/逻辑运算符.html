@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PropTypes</title>
+    <script src="../build/react.js"></script>
+    <script src="../build/react-dom.js"></script>
+    <script src="../build/browser.min.js"></script>
+</head>
+<body>
+<div id="example"></div>
+
+</body>
+
+<script type="text/babel">
+
+
+    var Divider = React.createClass({
+
+
+        getInitialState : function () {
+            return {
+                isComplete : false
+            }
+        },
+
+        render : function () {
+            return (
+                    <div className="divider">{(this.state.isComplete && 'this is true') || (!this.state.isComplete && 'this is false')}</div>
+            )
+        }
+
+    })
+
+    ReactDOM.render(
+            <Divider/>,
+            document.getElementById('example')
+    )
+
+
+</script>
+</html>

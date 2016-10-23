@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PropTypes</title>
+    <script src="../build/react.js"></script>
+    <script src="../build/react-dom.js"></script>
+    <script src="../build/browser.min.js"></script>
+</head>
+<body>
+<div id="example"></div>
+
+</body>
+
+<script type="text/babel">
+
+
+    var Divider = React.createClass({
+
+        getInitialState(){
+            console.log('this is getInitialState');
+            console.log(this.props);
+            return {
+                text : "this is test"
+            };
+        },
+
+        clickEvent : function () {
+            this.setState({
+                text : 'this is what the fuck!'
+            })
+        },
+
+        render: function () {
+
+            console.log("this is render");
+
+            return (
+                    <div className={this.props.className}>
+                        <span>{this.state.text}</span>
+                        <button onClick={this.clickEvent}>click me</button>
+                    </div>
+            );
+        },
+
+        componentDidMount() {
+            console.log("this is componentDidMount");
+        },
+
+        componentWillUpdate(){
+            console.log("this is componentWillUpdate");
+        },
+
+        componentDidUpdate(){
+            console.log("this is componentDidUpdate");
+        }
+
+    });
+
+    var className = 'some-class-name';
+
+    ReactDOM.render(
+            <Divider className={className}/>,
+            document.getElementById('example')
+    );
+
+</script>
+</html>

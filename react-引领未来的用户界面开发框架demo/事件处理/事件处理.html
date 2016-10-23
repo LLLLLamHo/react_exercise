@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PropTypes</title>
+    <script src="../build/react.js"></script>
+    <script src="../build/react-dom.js"></script>
+    <script src="../build/browser.min.js"></script>
+</head>
+<body>
+<div id="example"></div>
+
+</body>
+
+<script type="text/babel">
+
+
+    var Divider = React.createClass({
+
+        getInitialState : function () {
+            return {
+                info : ''
+            }
+        },
+
+        getInputValue : function (event) {
+            this.setState({
+                info : event.target.value
+            })
+        },
+
+        say : function () {
+            alert(1)
+        },
+
+        render: function () {
+
+            var style = {
+                width : '200px',
+                height : '200px',
+                background : 'red'
+            }
+
+            return (
+                    <div>
+                        <input type="text" onChange={this.getInputValue}/>
+                        <p>您出入的是: <span>{this.state.info}</span></p>
+                        <div onMouseOver={this.say} style={style}>click me</div>
+                    </div>
+            )
+
+        },
+
+
+
+    });
+
+    ReactDOM.render(
+            <Divider/>,
+            document.getElementById('example')
+    );
+
+
+</script>
+</html>

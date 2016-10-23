@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PropTypes</title>
+    <script src="../build/react.js"></script>
+    <script src="../build/react-dom.js"></script>
+    <script src="../build/browser.min.js"></script>
+</head>
+<body>
+<div id="example"></div>
+
+</body>
+
+<script type="text/babel">
+
+
+    var Divider = React.createClass({
+
+        getInitialState : function () {
+            return {
+                text : 'LamHo'
+            }
+        },
+
+        render : function () {
+
+            var text = 'Vincy';
+
+            return (
+                    <div className="divider">
+                        <h2>{text}</h2>
+                        <br/>
+                        <h1>{this.state.text}</h1>
+                    </div>
+            )
+        }
+
+    })
+
+    ReactDOM.render(
+            <Divider/>,
+            document.getElementById('example')
+    )
+
+
+</script>
+</html>
