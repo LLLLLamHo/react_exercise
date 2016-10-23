@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PropTypes</title>
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+</head>
+<body>
+<div id="example"></div>
+
+</body>
+
+<script type="text/babel">
+
+    var Hello = React.createClass({
+
+        getInitialState : function () {
+            return {
+                opacity : 1.0
+            };
+        },
+
+        componentWillMount : function () {
+            console.log('this is componentWillMount');
+        },
+
+        componentDidMount : function () {
+            console.log('this is componentDidMount');
+
+            this.timer = setInterval(function () {
+                var opacity = this.state.opacity;
+                opacity -= .05;
+                if(opacity < 0.1){
+                    opacity = 1.0;
+                }
+
+                this.setState({
+                    opacity : opacity
+                })
+
+            }.bind(this),100);
+        },
+
+        componentWillUpdate : function () {
+            console.log('this is componentWillUpdate');
+        },
+
+        componentDidUpdate : function () {
+            console.log('this is componentDidUpdate');
+        },
+
+        render : function () {
+            return (
+                    <div style={{
+                        opacity : this.state.opacity
+                    }}>
+                        Hello {this.props.name}
+                    </div>
+            )
+        }
+    });
+
+    ReactDOM.render(
+            <Hello name="LamHo"/>,
+            document.getElementById('example')
+    )
+
+
+</script>
+</html>

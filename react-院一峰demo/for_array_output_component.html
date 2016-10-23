@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>for_array_output_component</title>
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+</head>
+<body>
+
+    <div id="example"></div>
+    <hr>
+    <div id="example2"></div>
+
+</body>
+<script type="text/babel">
+
+    let names = ['LamHo',"Vincy",'GEM'];
+
+    ReactDOM.render(
+            <div>
+                {
+                    names.map((name) => {
+                        return <div>Hello {name}</div>;
+                    })
+                }
+            </div>,
+
+            document.getElementById('example')
+
+    );
+
+    let arr = [
+            <h1>Lam</h1>,
+            <h2>Vincy</h2>,
+            <h3>GEM</h3>
+    ];
+
+    ReactDOM.render(
+            <div>
+                {arr}
+            </div>,
+
+            document.getElementById('example2')
+    )
+
+</script>
+</html>
