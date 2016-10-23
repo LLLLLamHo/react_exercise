@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d92f01-a31f-4ba1-8b40-4837dcd58f91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="react.iws" />
@@ -400,12 +399,12 @@
       <workItem from="1473170187412" duration="15000" />
       <workItem from="1473170404616" duration="10000" />
       <workItem from="1476798188150" duration="2645000" />
-      <workItem from="1476802249006" duration="14035000" />
+      <workItem from="1476802249006" duration="14225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58358000" />
+    <option name="totallyTimeSpent" value="58548000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
