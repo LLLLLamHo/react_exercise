@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PropTypes</title>
+    <script src="../build/react.js"></script>
+    <script src="../build/react-dom.js"></script>
+    <script src="../build/browser.min.js"></script>
+</head>
+<body>
+<div id="example"></div>
+
+</body>
+
+<script type="text/babel">
+
+    //input组件
+    var AnswerRadioInput = React.createClass({
+
+        //传入的参数类型控制
+        propTypes : {
+            id : React.PropTypes.string,
+            name : React.PropTypes.string.isRequired,
+            label : React.PropTypes.string.isRequired,
+            value : React.PropTypes.string.isRequired,
+            checked : React.PropTypes.bool,
+            onChanged : React.PropTypes.func.isRequired
+        },
+
+        //默认属性
+        getDefaultProps : function () {
+            return {
+                id : null,
+                checked : false
+            }
+        },
+
+        getInitialState : function () {
+            //如果没有传id的话重新写一个
+            var id = this.props.id ? this.props.id : 'radio-' + this.props.value;
+            return {
+                checked : !!this.props.checked,
+                id : id,
+            }
+        },
+
+        handleChanged : function (e) {
+            var checked = e.target.checked;
+            if(checked){
+                this.props.onChanged(this.props.value);
+            }
+        },
+
+        render : function () {
+            return (
+                    <div className="radio">
+                        <label>
+                            <input type="radio"
+                                name={this.props.name}
+                                id={this.state.id}
+                                value={this.props.value}
+                                checked={this.props.checked}
+                                onChange={this.handleChanged}
+                            />
+                            {this.props.label}
+                        </label>
+                    </div>
+            )
+        }
+    });
+
+    //父组件
+    var AnswerMultipleChoiceQuestion = React.createClass({
+        propType : {
+            name : React.PropTypes.string.isRequired,
+            value : React.PropTypes.string.isRequired,
+            choices : React.PropTypes.array.isRequired,
+            onCompleted : React.PropTypes.func.isRequired
+        },
+
+        getInitialState : function () {
+            return {
+                id : 'multiple-choice-',
+                value : this.props.value
+            }
+        },
+
+        renderChoices : function () {
+            return this.props.choices.map( (choice, i) => {
+                return (
+                        <AnswerRadioInput
+                            key={new Date().getTime() + i}
+                            id={this.state.id + (i + 1)}
+                            name={choice.name}
+                            label={choice.value}
+                            value={choice.value}
+                            checked={this.state.value == choice.value}
+                            onChanged={this.handleChanged}
+                        />
+                )
+            });
+        },
+
+        handleChanged : function (value) {
+            this.setState({value:value});
+            this.props.onCompleted(value);
+        },
+
+        render : function () {
+            return(
+                    <div className="form-group">
+                        <div className="survey-item-content">
+                            {this.renderChoices()}
+                        </div>
+                    </div>
+            )
+        }
+    });
+
+    var arr = [{value:'aaa',name:'a'},{value:'bbb',name:'a'}];
+
+    function say(value) {
+        console.log('当前选中的radio的value:'+value);
+    }
+
+    ReactDOM.render(
+            <AnswerMultipleChoiceQuestion value="aaa" choices={arr} onCompleted={say}/>,
+            document.getElementById('example')
+    )
+
+</script>
+</html>
