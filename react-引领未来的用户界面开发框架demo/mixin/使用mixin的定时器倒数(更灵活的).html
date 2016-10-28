@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PropTypes</title>
+    <script src="../build/react.js"></script>
+    <script src="../build/react-dom.js"></script>
+    <script src="../build/browser.min.js"></script>
+</head>
+<body>
+<div id="example"></div>
+
+</body>
+
+<script type="text/babel">
+
+    var IntervalMixin = {
+        setInterval : function (callback,interval) {
+            var token = setInterval(callback,interval);
+            this._intervals.push(token);
+            return token;
+        },
+        componentDidMount : function () {
+            this._intervals = [];
+        },
+        componentWillUnmount : function () {
+            this._intervals.map(clearInterval);
+        }
+    }
+
+
+    var Since2014 = React.createClass({
+        mixins : [IntervalMixin],
+        componentDidMount : function () {
+            this.setInterval(this.forceUpdate.bind(this),1000);//手动刷新render
+        },
+        render : function () {
+            var from = Number(new Date(2014,0,1));
+            var to = Date.now();
+            return(
+                    <div>{Math.round((to - from) / 1000)}</div>
+            )
+        }
+    });
+
+    ReactDOM.render(
+            <Since2014/>,
+            document.getElementById('example')
+    )
+
+
+</script>
+</html>
