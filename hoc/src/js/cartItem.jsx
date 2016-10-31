@@ -71,4 +71,4 @@ class CartItem extends React.Component {
 
 }
 
-export default  IntervalEnhance(CartItem);
+export default IntervalEnhance(CartItem);

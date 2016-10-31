@@ -3,7 +3,6 @@ import React from 'react';
 export var IntervalEnhance = ComposeComponent => class extends ComposeComponent{
 
     constructor(props){
-        console.log(props)
         super(props);
         this.state = {
             seconds : 0

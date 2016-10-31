@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d92f01-a31f-4ba1-8b40-4837dcd58f91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoc/dist/img/foot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoc/dist/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoc/dist/js/cart-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoc/dist/js/cart-build.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoc/src/js/cart.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoc/src/js/cartItem.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoc/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/index.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/richText.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/webpack.config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hoc/src/js/cartItem.jsx" afterPath="$PROJECT_DIR$/hoc/src/js/cartItem.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx" afterPath="$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx" />
     </list>
     <ignored path="react.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,43 +30,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hoc/index.html">
+        <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="114">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cart.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hoc/src/js/cart.jsx">
+      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="38">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cartItem.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hoc/src/js/cartItem.jsx">
+      <file leaf-file-name="richText.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/richText.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-437">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="320">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#39#65#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="intervalEnhance.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx">
+      <file leaf-file-name="cartItem.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/用es6的方式开发组件的方式/src/js/cartItem.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="228">
+              <caret line="14" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -82,9 +77,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue File" />
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="jsx" />
       </list>
     </option>
@@ -95,10 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/react-demo/PropTypes.html" />
-        <option value="$PROJECT_DIR$/react-demo/getDefaultProps.html" />
-        <option value="$PROJECT_DIR$/react-demo/this.state.html" />
-        <option value="$PROJECT_DIR$/react-demo/表单.html" />
         <option value="$PROJECT_DIR$/react-demo/组件的生命周期.html" />
         <option value="$PROJECT_DIR$/react-demo/ajax.html" />
         <option value="$PROJECT_DIR$/react-demo/ref.html" />
@@ -144,8 +135,12 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx.js" />
-        <option value="$PROJECT_DIR$/hoc/src/js/cartItem.jsx" />
         <option value="$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx" />
+        <option value="$PROJECT_DIR$/hoc/src/js/cartItem.jsx" />
+        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/webpack.config.js" />
+        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/index.jsx" />
+        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/index.html" />
+        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/richText.jsx" />
       </list>
     </option>
   </component>
@@ -160,9 +155,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="2242" />
+    <option name="y" value="-327" />
+    <option name="width" value="958" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -189,8 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,7 +231,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -255,7 +249,81 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="用es6的方式开发组件的方式" />
+              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_exercise" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DOM" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="基本使用" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_exercise" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DOM" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="基本使用" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_exercise" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DOM" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="基本使用" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -341,6 +409,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,23 +423,23 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="FullScreen" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/hoc/dist/img" />
+      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高级函数替代mixins" />
+      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/mixin已死" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/hoc/dist/css" />
       <recent name="$PROJECT_DIR$/hoc" />
       <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/条件判断" />
       <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/自定义组件" />
       <recent name="$PROJECT_DIR$/react-demo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/hoc/dist/img" />
-      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高级函数替代mixins" />
-      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/mixin已死" />
-      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/mixin" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.React.createClass().html">
@@ -462,12 +532,14 @@
       <workItem from="1476802249006" duration="14225000" />
       <workItem from="1477227117260" duration="10616000" />
       <workItem from="1477635618462" duration="6687000" />
-      <workItem from="1477805193650" duration="8945000" />
+      <workItem from="1477805193650" duration="9642000" />
+      <workItem from="1477878009853" duration="175000" />
+      <workItem from="1477895755230" duration="6307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84796000" />
+    <option name="totallyTimeSpent" value="91975000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -479,16 +551,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="false" />
+    <frame x="2242" y="-327" width="958" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37362638" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36790392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.327551" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31683168" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -517,22 +589,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/react-院一峰demo/getDefaultProps.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReactExercise/props.html" />
-    <entry file="file://$PROJECT_DIR$/self-demo/demo5/index.html" />
-    <entry file="file://$PROJECT_DIR$/self-demo/demo6/index.html" />
     <entry file="file://$PROJECT_DIR$/self-demo/demo7/index.html" />
     <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/build/react.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,35 +775,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/mixin已死/使用mixins实现的例子.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-366">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/mixin/使用mixin的定时器倒数(更灵活的).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/mixin已死/使用mixins实现的例子.html" />
     <entry file="file://$PROJECT_DIR$/用es6的方式开发组件的方式/dist/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -752,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +795,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="551">
             <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -772,7 +805,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="304">
             <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -782,67 +814,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/用es6的方式开发组件的方式/src/js/cartItem.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/用es6的方式开发组件的方式/src/js/cart.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#39#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/用es6的方式开发组件的方式/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx.js" />
     <entry file="file://$PROJECT_DIR$/用es6的方式开发组件的方式/dist/js/cart-build.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
           <caret line="21485" column="9" selection-start-line="21485" selection-start-column="9" selection-end-line="21485" selection-end-column="9" />
-          <folding>
-            <element signature="e#117#125#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoc/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoc/src/js/cart.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,10 +835,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/用es6的方式开发组件的方式/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/mixin/使用mixin的定时器倒数(更灵活的).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hoc/src/js/cartItem.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="1023">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#39#65#0" expanded="true" />
@@ -867,11 +870,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx">
+    <entry file="file://$PROJECT_DIR$/hoc/src/js/cart.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="57">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/用es6的方式开发组件的方式/src/js/cart.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#39#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/用es6的方式开发组件的方式/src/js/cartItem.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/richText.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
