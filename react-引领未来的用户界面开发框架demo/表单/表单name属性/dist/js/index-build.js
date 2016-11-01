@@ -21433,7 +21433,7 @@
 /* 172 */
 /***/ function(module, exports, __webpack_require__) {
 
-	'use strict';
+	"use strict";
 	
 	Object.defineProperty(exports, "__esModule", {
 	    value: true
@@ -21444,10 +21444,6 @@
 	var _react = __webpack_require__(1);
 	
 	var _react2 = _interopRequireDefault(_react);
-	
-	var _reactDom = __webpack_require__(34);
-	
-	var _reactDom2 = _interopRequireDefault(_reactDom);
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
@@ -21463,32 +21459,69 @@
 	    function Input() {
 	        _classCallCheck(this, Input);
 	
-	        return _possibleConstructorReturn(this, (Input.__proto__ || Object.getPrototypeOf(Input)).call(this));
+	        var _this = _possibleConstructorReturn(this, (Input.__proto__ || Object.getPrototypeOf(Input)).call(this));
+	
+	        _this.state = {
+	            radio: "B"
+	        };
+	        return _this;
 	    }
 	
 	    _createClass(Input, [{
-	        key: 'submitHandler',
+	        key: "submitHandler",
 	        value: function submitHandler(event) {
 	            event.preventDefault();
-	            var helloTo = this.refs.helloTo.value;
-	            alert(helloTo);
+	            alert(this.state.radio);
 	        }
 	    }, {
-	        key: 'render',
+	        key: "handleChange",
+	        value: function handleChange(e) {
+	            this.setState({
+	                radio: e.target.value
+	            });
+	        }
+	    }, {
+	        key: "render",
 	        value: function render() {
 	            var _this2 = this;
 	
 	            return _react2.default.createElement(
-	                'form',
+	                "form",
 	                { onSubmit: function onSubmit(e) {
 	                        _this2.submitHandler(e);
 	                    } },
-	                _react2.default.createElement('input', { type: 'text', ref: 'helloTo', defaultValue: 'Hello World!' }),
-	                _react2.default.createElement('br', null),
+	                _react2.default.createElement("input", {
+	                    type: "radio",
+	                    value: "A",
+	                    checked: this.state.radio == "A",
+	                    onChange: function onChange(e) {
+	                        _this2.handleChange(e);
+	                    }
+	                }),
+	                "A",
+	                _react2.default.createElement("input", {
+	                    type: "radio",
+	                    value: "B",
+	                    checked: this.state.radio == "B",
+	                    onChange: function onChange(e) {
+	                        _this2.handleChange(e);
+	                    }
+	                }),
+	                "B",
+	                _react2.default.createElement("input", {
+	                    type: "radio",
+	                    value: "C",
+	                    checked: this.state.radio == "C",
+	                    onChange: function onChange(e) {
+	                        _this2.handleChange(e);
+	                    }
+	                }),
+	                "C",
+	                _react2.default.createElement("br", null),
 	                _react2.default.createElement(
-	                    'button',
-	                    { type: 'submit' },
-	                    'Speak'
+	                    "button",
+	                    { type: "submit" },
+	                    "Speak"
 	                )
 	            );
 	        }

@@ -21445,10 +21445,6 @@
 	
 	var _react2 = _interopRequireDefault(_react);
 	
-	var _reactDom = __webpack_require__(34);
-	
-	var _reactDom2 = _interopRequireDefault(_reactDom);
-	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
 	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -21463,15 +21459,26 @@
 	    function Input() {
 	        _classCallCheck(this, Input);
 	
-	        return _possibleConstructorReturn(this, (Input.__proto__ || Object.getPrototypeOf(Input)).call(this));
+	        var _this = _possibleConstructorReturn(this, (Input.__proto__ || Object.getPrototypeOf(Input)).call(this));
+	
+	        _this.state = {
+	            helloTo: 'Hello World!'
+	        };
+	        return _this;
 	    }
 	
 	    _createClass(Input, [{
+	        key: 'handleChange',
+	        value: function handleChange(event) {
+	            this.setState({
+	                helloTo: event.target.value.toUpperCase()
+	            });
+	        }
+	    }, {
 	        key: 'submitHandler',
 	        value: function submitHandler(event) {
 	            event.preventDefault();
-	            var helloTo = this.refs.helloTo.value;
-	            alert(helloTo);
+	            alert(this.state.helloTo);
 	        }
 	    }, {
 	        key: 'render',
@@ -21483,7 +21490,13 @@
 	                { onSubmit: function onSubmit(e) {
 	                        _this2.submitHandler(e);
 	                    } },
-	                _react2.default.createElement('input', { type: 'text', ref: 'helloTo', defaultValue: 'Hello World!' }),
+	                _react2.default.createElement('input', {
+	                    type: 'text',
+	                    value: this.state.helloTo.toUpperCase(),
+	                    onChange: function onChange(e) {
+	                        _this2.handleChange(e);
+	                    }
+	                }),
 	                _react2.default.createElement('br', null),
 	                _react2.default.createElement(
 	                    'button',

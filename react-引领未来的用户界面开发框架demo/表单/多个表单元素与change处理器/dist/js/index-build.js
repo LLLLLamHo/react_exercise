@@ -54,13 +54,19 @@
 	
 	var _reactDom2 = _interopRequireDefault(_reactDom);
 	
-	var _input = __webpack_require__(172);
+	var _input = __webpack_require__(173);
 	
 	var _input2 = _interopRequireDefault(_input);
 	
+	var _input3 = __webpack_require__(174);
+	
+	var _input4 = _interopRequireDefault(_input3);
+	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
-	_reactDom2.default.render(_react2.default.createElement(_input2.default, null), document.getElementById('test'));
+	_reactDom2.default.render(_react2.default.createElement(_input2.default, null), document.getElementById('test1'));
+	
+	_reactDom2.default.render(_react2.default.createElement(_input4.default, null), document.getElementById('test2'));
 
 /***/ },
 /* 1 */
@@ -21430,10 +21436,11 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(3)))
 
 /***/ },
-/* 172 */
+/* 172 */,
+/* 173 */
 /***/ function(module, exports, __webpack_require__) {
 
-	'use strict';
+	"use strict";
 	
 	Object.defineProperty(exports, "__esModule", {
 	    value: true
@@ -21444,10 +21451,6 @@
 	var _react = __webpack_require__(1);
 	
 	var _react2 = _interopRequireDefault(_react);
-	
-	var _reactDom = __webpack_require__(34);
-	
-	var _reactDom2 = _interopRequireDefault(_reactDom);
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
@@ -21463,32 +21466,180 @@
 	    function Input() {
 	        _classCallCheck(this, Input);
 	
-	        return _possibleConstructorReturn(this, (Input.__proto__ || Object.getPrototypeOf(Input)).call(this));
+	        var _this = _possibleConstructorReturn(this, (Input.__proto__ || Object.getPrototypeOf(Input)).call(this));
+	
+	        _this.state = {
+	            given_name: "",
+	            family_name: ""
+	        };
+	        return _this;
 	    }
 	
 	    _createClass(Input, [{
-	        key: 'submitHandler',
+	        key: "submitHandler",
 	        value: function submitHandler(event) {
 	            event.preventDefault();
-	            var helloTo = this.refs.helloTo.value;
-	            alert(helloTo);
+	            var words = ["Hi", this.state.given_name, this.state.family_name];
+	            alert(words.join(','));
 	        }
 	    }, {
-	        key: 'render',
+	        key: "handleChange",
+	        value: function handleChange(name, e) {
+	            var newState = {};
+	            newState[name] = e.target.value;
+	            this.setState(newState);
+	        }
+	    }, {
+	        key: "render",
 	        value: function render() {
 	            var _this2 = this;
 	
 	            return _react2.default.createElement(
-	                'form',
+	                "form",
 	                { onSubmit: function onSubmit(e) {
 	                        _this2.submitHandler(e);
 	                    } },
-	                _react2.default.createElement('input', { type: 'text', ref: 'helloTo', defaultValue: 'Hello World!' }),
-	                _react2.default.createElement('br', null),
 	                _react2.default.createElement(
-	                    'button',
-	                    { type: 'submit' },
-	                    'Speak'
+	                    "label",
+	                    { htmlFor: "given_name" },
+	                    "Given Name:"
+	                ),
+	                _react2.default.createElement("br", null),
+	                _react2.default.createElement("input", {
+	                    type: "text",
+	                    name: "given_name",
+	                    value: this.state.given_name,
+	                    onChange: function onChange(e) {
+	                        _this2.handleChange('given_name', e);
+	                    }
+	                }),
+	                _react2.default.createElement("br", null),
+	                _react2.default.createElement(
+	                    "label",
+	                    { htmlFor: "family_name" },
+	                    "Family Name:"
+	                ),
+	                _react2.default.createElement("br", null),
+	                _react2.default.createElement("input", {
+	                    type: "text",
+	                    name: "family_name",
+	                    value: this.state.family_name,
+	                    onChange: function onChange(e) {
+	                        _this2.handleChange('family_name', e);
+	                    }
+	                }),
+	                _react2.default.createElement("br", null),
+	                _react2.default.createElement(
+	                    "button",
+	                    { type: "submit" },
+	                    "Speak"
+	                )
+	            );
+	        }
+	    }]);
+	
+	    return Input;
+	}(_react2.default.Component);
+	
+	exports.default = Input;
+
+/***/ },
+/* 174 */
+/***/ function(module, exports, __webpack_require__) {
+
+	"use strict";
+	
+	Object.defineProperty(exports, "__esModule", {
+	    value: true
+	});
+	
+	var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+	
+	var _react = __webpack_require__(1);
+	
+	var _react2 = _interopRequireDefault(_react);
+	
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+	
+	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+	
+	function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+	
+	function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+	
+	var Input = function (_React$Component) {
+	    _inherits(Input, _React$Component);
+	
+	    function Input() {
+	        _classCallCheck(this, Input);
+	
+	        var _this = _possibleConstructorReturn(this, (Input.__proto__ || Object.getPrototypeOf(Input)).call(this));
+	
+	        _this.state = {
+	            given_name: "",
+	            family_name: ""
+	        };
+	        return _this;
+	    }
+	
+	    _createClass(Input, [{
+	        key: "submitHandler",
+	        value: function submitHandler(event) {
+	            event.preventDefault();
+	            var words = ["Hi", this.state.given_name, this.state.family_name];
+	            alert(words.join(','));
+	        }
+	    }, {
+	        key: "handleChange",
+	        value: function handleChange(e) {
+	            var newState = {};
+	            newState[e.target.name] = e.target.value;
+	            this.setState(newState);
+	        }
+	    }, {
+	        key: "render",
+	        value: function render() {
+	            var _this2 = this;
+	
+	            return _react2.default.createElement(
+	                "form",
+	                { onSubmit: function onSubmit(e) {
+	                        _this2.submitHandler(e);
+	                    } },
+	                _react2.default.createElement(
+	                    "label",
+	                    { htmlFor: "given_name" },
+	                    "Given Name:"
+	                ),
+	                _react2.default.createElement("br", null),
+	                _react2.default.createElement("input", {
+	                    type: "text",
+	                    name: "given_name",
+	                    value: this.state.given_name,
+	                    onChange: function onChange(e) {
+	                        _this2.handleChange(e);
+	                    }
+	                }),
+	                _react2.default.createElement("br", null),
+	                _react2.default.createElement(
+	                    "label",
+	                    { htmlFor: "family_name" },
+	                    "Family Name:"
+	                ),
+	                _react2.default.createElement("br", null),
+	                _react2.default.createElement("input", {
+	                    type: "text",
+	                    name: "family_name",
+	                    value: this.state.family_name,
+	                    onChange: function onChange(e) {
+	                        _this2.handleChange(e);
+	                    }
+	                }),
+	                _react2.default.createElement("br", null),
+	                _react2.default.createElement(
+	                    "button",
+	                    { type: "submit" },
+	                    "Speak"
 	                )
 	            );
 	        }
