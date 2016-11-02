@@ -2,49 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d92f01-a31f-4ba1-8b40-4837dcd58f91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/其他表单组件/dist/js/index-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/其他表单组件/dist/js/index-build.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/其他表单组件/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/其他表单组件/src/js/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/其他表单组件/src/js/input.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/其他表单组件/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/复选框和单选框/dist/js/index-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/复选框和单选框/dist/js/index-build.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/复选框和单选框/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/复选框和单选框/src/js/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/复选框和单选框/src/js/input.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/复选框和单选框/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/dist/js/index-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/dist/js/index-build.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/src/js/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/src/js/input1.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/src/js/input2.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/dist/js/index-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/dist/js/index-build.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/src/js/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/src/js/input.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/dist/js/index-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/dist/js/index-build.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/Radio.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/form.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/表单name属性/dist/js/index-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/表单name属性/dist/js/index-build.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/表单name属性/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/表单name属性/src/js/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/表单name属性/src/js/input.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/表单name属性/webpack.config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件/dist/js/index-build.js" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件/dist/js/index-build.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件/dist/js/index-build.js.map" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件/dist/js/index-build.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件/src/js/input.jsx" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件/src/js/input.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/dist/js/index-build.js" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/dist/js/index-build.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/dist/js/index-build.js.map" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/dist/js/index-build.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/form.jsx" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/form.jsx" />
     </list>
     <ignored path="react.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,21 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Radio.jsx" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Radio.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/Radio.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="285">
               <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="form.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/form.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="291">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#38#64#0" expanded="true" />
               </folding>
@@ -536,12 +497,12 @@
       <workItem from="1477635618462" duration="6687000" />
       <workItem from="1477805193650" duration="9642000" />
       <workItem from="1477878009853" duration="175000" />
-      <workItem from="1477895755230" duration="28134000" />
+      <workItem from="1477895755230" duration="29635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113802000" />
+    <option name="totallyTimeSpent" value="115303000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,7 +523,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25742576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21386139" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -974,14 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/数据流-props/数据流-传递数组.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
@@ -1000,21 +953,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/Radio.jsx">
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/form.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="291">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#38#64#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/Radio.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>

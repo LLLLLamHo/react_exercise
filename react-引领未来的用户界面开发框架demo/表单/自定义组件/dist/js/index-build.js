@@ -21562,15 +21562,26 @@
 	    function Form() {
 	        _classCallCheck(this, Form);
 	
-	        return _possibleConstructorReturn(this, (Form.__proto__ || Object.getPrototypeOf(Form)).call(this));
+	        var _this = _possibleConstructorReturn(this, (Form.__proto__ || Object.getPrototypeOf(Form)).call(this));
+	
+	        _this.state = {
+	            my_radio: 'B'
+	        };
+	        return _this;
 	    }
 	
 	    _createClass(Form, [{
+	        key: 'handleChange',
+	        value: function handleChange(e) {
+	            this.setState({
+	                my_radio: e.target.value
+	            });
+	        }
+	    }, {
 	        key: 'submitHandler',
 	        value: function submitHandler(event) {
 	            event.preventDefault();
-	            console.log(this.refs);
-	            alert(this.refs.radio.state.value);
+	            alert(this.state.my_radio);
 	        }
 	    }, {
 	        key: 'render',
@@ -21584,7 +21595,14 @@
 	                    } },
 	                _react2.default.createElement(
 	                    _Radio2.default,
-	                    { ref: 'radio', name: 'my_radio', defaultValue: 'B' },
+	                    {
+	                        ref: 'radio',
+	                        name: 'my_radio',
+	                        defaultValue: 'B',
+	                        onChange: function onChange(e) {
+	                            _this2.handleChange(e);
+	                        }
+	                    },
 	                    _react2.default.createElement(
 	                        'option',
 	                        { value: 'A' },
