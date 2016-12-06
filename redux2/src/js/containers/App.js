@@ -13,6 +13,7 @@ class App extends Component {
     }
 
     render () {
+        console.log(this.props)
         const { dispatch, value } = this.props;
         return (
             <div>

@@ -2,23 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d92f01-a31f-4ba1-8b40-4837dcd58f91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/dist/js/index-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/dist/js/index-build.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/src/css/index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/src/js/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/dist/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/dist/css/index.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/dist/js/index-build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/dist/js/index-build.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/css/index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/index.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/list.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Active_Links/dist/js/index-build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Active_Links/dist/js/index-build.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Active_Links/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Active_Links/src/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Active_Links/src/js/modules/About.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Active_Links/src/js/modules/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Active_Links/src/js/modules/Repos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Active_Links/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/dist/js/index-build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/dist/js/index-build.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/modules/About.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/modules/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/modules/Home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/modules/Repo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/modules/Repos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/dist/js/index-build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/dist/js/index-build.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/src/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/src/js/modules/About.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/src/js/modules/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/src/js/modules/Home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/src/js/modules/Repo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/src/js/modules/Repos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Index_Routes/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/More Nesting/dist/js/index-build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/More Nesting/dist/js/index-build.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/More Nesting/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/More Nesting/src/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/More Nesting/src/js/modules/About.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/More Nesting/src/js/modules/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/More Nesting/src/js/modules/Repo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/More Nesting/src/js/modules/Repos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/More Nesting/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Params/dist/js/index-build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Params/dist/js/index-build.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Params/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Params/src/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Params/src/js/modules/About.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Params/src/js/modules/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Params/src/js/modules/Repo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Params/src/js/modules/Repos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/Params/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/nested_router/dist/js/index-build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/nested_router/dist/js/index-build.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/nested_router/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/nested_router/src/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/nested_router/src/js/modules/About.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/nested_router/src/js/modules/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/nested_router/src/js/modules/Repos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/nested_router/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/star/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/star/src/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/star/src/js/modules/About.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/star/src/js/modules/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/star/src/js/modules/Repos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-router/star/webpack.config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redux2/src/js/containers/App.js" afterPath="$PROJECT_DIR$/redux2/src/js/containers/App.js" />
     </list>
     <ignored path="react.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,45 +85,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/index.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/index.html">
+        <entry file="file://$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/list.jsx">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+            <state relative-caret-position="433">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#38#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/css/index.scss">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="464">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,10 +125,10 @@
       <list>
         <option value="Vue File" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="SCSS File" />
         <option value="jsx" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -103,28 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/mixin/使用mixin的定时器倒数.html" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/README.md" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/mixin已死/普通的定时器倒数.html" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高级函数替代mixins/src/js/cart.jsx.js" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高级函数替代mixins/index.html" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高级函数替代mixins/webpack.config.js" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高阶函数替代mixins/src/js/cartItem.js" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高阶函数替代mixins/index.html" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高阶函数替代mixins/src/js/cartItem.jsx" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高阶函数替代mixins/src/js/cart.jsx" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/高阶函数替代mixins/webpack.config.js" />
-        <option value="$PROJECT_DIR$/hoc/dist/style.css" />
-        <option value="$PROJECT_DIR$/hoc/index.html" />
-        <option value="$PROJECT_DIR$/hoc/src/js/cart.jsx" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx.js" />
-        <option value="$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx" />
-        <option value="$PROJECT_DIR$/hoc/src/js/cartItem.jsx" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/webpack.config.js" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/index.jsx" />
-        <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/index.html" />
         <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/richText.jsx" />
         <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/index.html" />
         <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/src/js/index.jsx" />
@@ -154,6 +167,28 @@
         <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/index.jsx" />
         <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/css/index.scss" />
         <option value="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/list.jsx" />
+        <option value="$PROJECT_DIR$/redux2/src/js/containers/App.js" />
+        <option value="$PROJECT_DIR$/react-router/webpack.config.js" />
+        <option value="$PROJECT_DIR$/react-router/index.html" />
+        <option value="$PROJECT_DIR$/react-router/src/js/modules/About.js" />
+        <option value="$PROJECT_DIR$/react-router/src/js/modules/Repos.js" />
+        <option value="$PROJECT_DIR$/react-router/src/js/index.js" />
+        <option value="$PROJECT_DIR$/react-router/src/js/modules/App.js" />
+        <option value="$PROJECT_DIR$/react-router/nested_router/src/js/index.js" />
+        <option value="$PROJECT_DIR$/react-router/nested_router/src/js/modules/App.js" />
+        <option value="$PROJECT_DIR$/react-router/Active_Links/src/js/modules/App.js" />
+        <option value="$PROJECT_DIR$/react-router/Params/src/js/modules/App.js" />
+        <option value="$PROJECT_DIR$/react-router/Params/src/js/modules/Repo.js" />
+        <option value="$PROJECT_DIR$/react-router/Params/src/js/index.js" />
+        <option value="$PROJECT_DIR$/react-router/Params/src/js/modules/Repos.js" />
+        <option value="$PROJECT_DIR$/react-router/More Nesting/src/js/index.js" />
+        <option value="$PROJECT_DIR$/react-router/More Nesting/src/js/modules/Repos.js" />
+        <option value="$PROJECT_DIR$/react-router/More Nesting/src/js/modules/Home.js" />
+        <option value="$PROJECT_DIR$/react-router/Index_Routes/src/js/modules/Home.js" />
+        <option value="$PROJECT_DIR$/react-router/Index_Routes/src/js/index.js" />
+        <option value="$PROJECT_DIR$/react-router/Index_Routes/src/js/modules/App.js" />
+        <option value="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/webpack.config.js" />
+        <option value="$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/index.js" />
       </list>
     </option>
   </component>
@@ -198,6 +233,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -226,210 +263,12 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="动画" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="自己练习" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="动画" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="自己练习" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="动画" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="自己练习" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="动画" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css渐变组" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="动画" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css渐变组" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-引领未来的用户界面开发框架demo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="动画" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css渐变组" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hoc" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react_exercise" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hoc" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="用es6的方式开发组件的方式" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -446,19 +285,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习" />
-      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo" />
-      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单" />
-      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/src/js" />
-      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-router/star" />
       <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组" />
       <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js" />
       <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件" />
       <recent name="$PROJECT_DIR$/hoc/dist/css" />
-      <recent name="$PROJECT_DIR$/hoc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-router" />
+      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习" />
+      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo" />
+      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单" />
+      <recent name="$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/src/js" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.React.createClass().html">
@@ -554,11 +393,13 @@
       <workItem from="1477805193650" duration="9642000" />
       <workItem from="1477878009853" duration="175000" />
       <workItem from="1477895755230" duration="44187000" />
+      <workItem from="1479810719380" duration="6116000" />
+      <workItem from="1480994614336" duration="8332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129855000" />
+    <option name="totallyTimeSpent" value="144303000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -570,16 +411,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-327" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="1280" y="-327" width="1920" height="1080" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14323749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14643237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3148515" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3980198" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -610,344 +451,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/dist/js/index-build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/DOM/基本使用/src/js/richText.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" selection-start-line="7" selection-start-column="3" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件/src/js/input.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件/src/js/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/无约束的组件/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoc/src/js/intervalEnhance.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/数据流-props/数据流-事件监听.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/数据流-props/数据流-传递对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/数据流-props/数据流-字符串.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/dist/js/index-build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-434">
-          <caret line="21464" column="23" selection-start-line="21464" selection-start-column="16" selection-end-line="21464" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/其他表单组件/src/js/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/src/js/input.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/src/js/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/复选框和单选框/src/js/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/其他表单组件/src/js/input.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/其他表单组件/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/表单name属性/src/js/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/复选框和单选框/src/js/input.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/复选框和单选框/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/表单name属性/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/src/js/input2.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="34" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/src/js/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/多个表单元素与change处理器/src/js/input1.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/约束的组件/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/表单name属性/src/js/input.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/数据流-props/数据流-传递数组.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/src/js/form.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/Radio.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/form.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#38#64#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/表单/自定义组件/src/js/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoc/src/js/cartItem.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hoc/src/js/cart.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#39#65#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/dist/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="65" column="2" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/css渐变组/dist/js/index-build.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,17 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -989,7 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-931">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -997,15 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,15 +497,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="39" column="48" selection-start-line="38" selection-start-column="20" selection-end-line="39" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/css/index.scss">
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/list.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="152">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1029,16 +511,381 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/css/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux2/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux2/src/js/reducers/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux2/src/js/containers/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#39#75#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux2/src/js/actions/action.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux2/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux2/src/js/components/Counter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-引领未来的用户界面开发框架demo/动画/自己练习/src/js/list.jsx">
+    <entry file="file://$PROJECT_DIR$/react-router/src/js/cart.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/star/src/js/modules/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="40" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#38#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/star/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#38#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/star/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/star/src/js/modules/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/star/src/js/modules/Repos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/star/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/nested_router/src/js/modules/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/nested_router/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/nested_router/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#38#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/nested_router/src/js/modules/Repos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Active_Links/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Active_Links/src/js/modules/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Params/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#38#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Params/src/js/modules/Repos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#38#63#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Params/src/js/modules/Repo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Params/src/js/modules/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Params/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/More Nesting/src/js/modules/Repo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/More Nesting/src/js/modules/Repos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/More Nesting/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/More Nesting/src/js/modules/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/More Nesting/src/js/modules/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/More Nesting/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/modules/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Index_Routes/src/js/modules/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Index_Routes/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#38#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Index_Routes/src/js/modules/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#38#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Index_Routes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-723">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/Clean_URLs_with_Browser_History/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#38#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
